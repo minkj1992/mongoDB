@@ -1,0 +1,5 @@
+# : comments
+
+# no .a files
+*.a
+data/
